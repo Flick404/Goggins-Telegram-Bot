@@ -1,6 +1,3 @@
-Sure, here's the complete README file with all the necessary sections combined into one text, ready for you to copy and paste:
-
-```markdown
 # Goggins Telegram Bot
 
 ## Overview
@@ -19,7 +16,6 @@ To install and run the Goggins Telegram Bot, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Flick404/Goggins-Telegram-Bot
-   ```
 2. **Navigate to the Bot Directory:**
    ```bash
    cd Goggins
